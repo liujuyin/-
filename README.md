@@ -103,9 +103,7 @@ def toggle_endoscope_view():
 ### 贡献者
 ### 成员 角色 联系方式
 
-程子诺 项目负责人 202111081018@mail.bnu.edu.cn
-刘举印 GPU算法开发 202211081039@mail.bnu.edu.cn
-杨煌 交互系统设计 202211081083@mail.bnu.edu.cn
-骆岩林 指导教师 luoyl@bnu.edu.cn
-
-此README.md可直接用于GitHub仓库，包含完整的技术说明、安装指南和研究成果展示，符合学术型开源项目的专业规范。图片位置严格遵循原始文档上下文关系，未添加任何虚构内容。
+程子诺 项目负责人 202111081018@mail.bnu.edu.cn  
+刘举印 GPU算法开发 202211081039@mail.bnu.edu.cn  
+杨煌 交互系统设计 202211081083@mail.bnu.edu.cn  
+骆岩林 指导教师 luoyl@bnu.edu.cn  
